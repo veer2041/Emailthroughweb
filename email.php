@@ -15,8 +15,8 @@ $mail->SMTPSecure = "ssl";
 $mail->Host       = "smtp.gmail.com";      // SMTP server
 $mail->Port       = 465;                   // SMTP port
 $mail->isHTML();
-$mail->Username   = "rveeragoudar123@gmail.com";  // username
-$mail->Password   = "9241055212";            // password
+$mail->Username   = "123@gmail.com";  // username
+$mail->Password   = "*********";            // password
 
 $mail->SetFrom('rveeragoudar123@gmail.com', 'Test');
 
